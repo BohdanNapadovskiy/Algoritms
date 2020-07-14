@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.metagenics.plx.plmcdashboard</groupId>
+    <artifactId>Algoritms</artifactId>
+    <version>1.0.0</version>
+    <modules>
+        <module>Quick_Union</module>
+        <module>Percolation</module>
+        <module>Quick_Find</module>
+    </modules>
+    <packaging>pom</packaging>
+
+    <repositories>
+        <repository>
+            <id>org.coursera.algs4</id>
+            <name>Algs4 lib</name>
+            <url>https://dl.bintray.com/algs4/maven/</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>edu.princeton.cs</groupId>
+            <artifactId>algs4</artifactId>
+            <version>1.0.4</version>
+        </dependency>
+    </dependencies>
+
+</project>

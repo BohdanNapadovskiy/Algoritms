@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Quick_Union" />
+        <module name="Percolation" />
+        <module name="Quick_Find" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Algoritms" target="1.5" />
+      <module name="Percolation" target="1.5" />
+      <module name="Quick_Find" target="1.5" />
+      <module name="Quick_Union" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

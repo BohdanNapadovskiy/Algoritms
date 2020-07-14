@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06172f51-93f4-4f23-ab51-24ca726c7e6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1edthrtM9uo9v09SxOWUbBDz77E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/cybermias-back-end-v2/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06172f51-93f4-4f23-ab51-24ca726c7e6a" name="Default Changelist" comment="" />
+      <created>1594663419586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594663419586</updated>
+      <workItem from="1594663421037" duration="195000" />
+      <workItem from="1594663643239" duration="4980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="211" width="734" height="636" key="#Inspections" timestamp="1594663552010">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="589" y="211" width="734" height="636" key="#Inspections/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1594663552010" />
+    <state x="443" y="107" width="1026" height="844" key="#Project_Structure" timestamp="1594717504426">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="443" y="107" width="1026" height="844" key="#Project_Structure/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1594717504426" />
+    <state x="743" y="395" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594717402126">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="743" y="395" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1594717402126" />
+    <state x="743" y="287" width="426" height="483" key="FileChooserDialogImpl" timestamp="1594717454405">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="743" y="287" width="426" height="483" key="FileChooserDialogImpl/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1594717454405" />
+    <state x="464" y="164" key="SettingsEditor" timestamp="1594663609571">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="464" y="164" key="SettingsEditor/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1594663609571" />
+    <state x="335" y="234" width="1241" height="590" key="new project wizard" timestamp="1594717435347">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="335" y="234" width="1241" height="590" key="new project wizard/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1594717435347" />
+  </component>
+</project>
